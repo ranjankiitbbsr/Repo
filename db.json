@@ -1,0 +1,17 @@
+[
+	{
+		"firstName":"Ranjan",
+		"lastName": "Nayak",
+		"email":"Ranjan@gmail.com"
+	},
+	{
+		"firstName":"Malay",
+		"lastName": "Panigrahi",
+		"email":"Malay@gmail.com"
+	},
+	{
+		"firstName":"Siabashish",
+		"lastName": "Mohanty",
+		"email":"Siabashish@gmail.com"
+	}
+]
